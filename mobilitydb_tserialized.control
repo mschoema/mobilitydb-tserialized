@@ -1,0 +1,5 @@
+# mobilitydb_tserialized extension
+comment = 'mobilitydb_tserialized - Serialization for the MobilityDB temporal types'
+default_version = '1.0'
+module_pathname = '$libdir/mobilitydb_tserialized'
+requires = 'mobilitydb'
